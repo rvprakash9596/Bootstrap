@@ -1,0 +1,71 @@
+                                        What is Bootstrap ??
+======================================================================================================
+.CSS Based Front-End Framework
+            |
+.Twitter Company Developed Bootstrap Framework
+.Faster and easier web development
+.Easy create responsive web layouts
+
+
+.Layout
+.Typography
+.Navigation Menu
+.Form Layout
+.Buttons
+.Pagination
+.Icon Fonts
+.Responsiveness
+
+Advantage of Using Bootstrap:
+-----------------------------
+.Save lots of time
+.Responsive features
+.Consistent design
+.Easy to use
+.Compatible with browsers
+.Open Source
+
+
+Bootstrap CSS Framework & Component :
+--------------------------------------
+
+Multi_column layouts
+Form layouts
+Button groups
+Button dropdowns
+Input groups
+Navs
+Navbar
+Dropdowns
+Breadcrumbs
+Pagination
+Labels
+Badges
+Jumbotron
+Page header
+Thumbnails
+Alerts
+Progress bar
+List group
+Panels
+Media Objects
+Responsive embed
+Wells
+Glyphicons
+
+
+
+Bootstrap JS Components :
+-------------------------
+
+.Model Box
+.Dropdown
+.Scrollspy
+.Tab
+.Tooltip
+.Popover
+.Alert
+.Collapse
+.Carousel
+.Affix
+
