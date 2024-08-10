@@ -1,7 +1,9 @@
                                         What is Bootstrap ??
 ======================================================================================================
 .CSS Based Front-End Framework
-            |
+
+.Developed by Mark Otto and Jackob Thornton at Twtter.
+.Bootstrap is used to create responsive website.            |
 .Twitter Company Developed Bootstrap Framework
 .Faster and easier web development
 .Easy create responsive web layouts
@@ -68,5 +70,237 @@ Bootstrap JS Components :
 .Collapse
 .Carousel
 .Affix
-dhsjhdjsj
-sdjskdjskdjk
+
+
+Bootstrap 2 VS Bootstrap 3 :
+-----------------------------
+.Flexbox Layout
+.New Components
+.Faster
+.More Responsiveness
+
+
+Bootstrap 4 Compatibility :
+-----------------------------
+.Supports all major browsers and platforms
+.Internet Explorer 9 and down is not supported
+
+
+Bootstrap 5 :
+--------------
+.Major Re-Write of the entire Framework
+.Brand new look and feed
+.Brand new logo
+.New Typography
+.No jQuery Required anymore
+.New CSS custom properties
+.Dropping Supports for Internet Explorer
+.New themes color
+.Enhanced Grid
+
+
+
+
+Other Popular CSS Frameworks :
+------------------------------
+.Materoalize CSS
+.Foundation
+.Bulma
+.Semantic UI
+.Pure.CSS
+.Talwind CSS
+.Skeleton
+.Uikit
+.Bootflat
+.Groundwork
+
+Prior Knowledge before learning Bootstrap :
+-------------------------------------------
+.HTML
+.CSS (media query,flexbox)
+.jQuery
+
+Software Requirement for Bootstrap :
+-------------------------------------
+
+.HTML Editor
+.Web Browser
+.Bootstrap CSS/JS Files
+
+======================================================================================================
+
+Changing Column Width Based on Screen Size :
+--------------------------------------------
+Media Queries :
+---------------
+==========================================================================================================
+										Techpile Classes 
+==========================================================================================================
+Bootstrap Classes :
+-------------------
+Bootstrap Color:
+----------------
+primary
+secondary
+info
+success
+danger
+warning
+dark
+light
+
+
+Background Color :
+------------------
+bg-colorname
+ex:
+===
+bg-primary
+bg-secondary
+bg-info
+
+
+Text-Color :
+------------
+text-colorname
+ex:
+---
+text-danger
+
+Font-Size :
+-----------
+
+fs-(1-5)
+
+ex:
+----
+fs-1
+fs-2
+fs-3
+
+
+Text-Align :
+------------
+to text left ==> text-start
+to text right ==> text-end
+
+In Bootstrap V5:
+----------------
+replaced:
+---------
+text-left to text-start
+text-right to text-end
+text-center to text-center
+
+
+Heading Class :
+---------------
+h1 h2 h3 h4 h5 h6
+
+Background with text-color:
+---------------------------
+text-bg-colorname
+
+
+text-transform:uppercase/camelcase/capitalize :
+-----------------------------------------------
+
+"text-uppercase"
+"text-lowercase"
+"text-capitalize"
+
+
+Bootstrap Button :
+-------------------
+
+class="btn"
+==> to fill color
+class="btn-colorname"
+		  -success
+		  -into etc.
+		  
+to make small and large
+-----------------------
+"btn-sm"--->small
+"btn-bg"--->large
+
+======================================================================================================
+									Bootstrap 5 CODE4EDUCATION
+======================================================================================================
+Bootstrap is a free and open source collection of CSS and JavaScript/jQuery code used for websites layout and web applications.
+
+Bootstrap 5 first alpha was officially released on June 16,2020.
+
+.CSS Based Front-End Framework
+.Developed by Mark Otto and Jackob Thornton at Twtter.
+.Bootstrap is used to create responsive website.
+.Twitter Company Developed Bootstrap Framework
+.Faster and easier web development
+.Easy create responsive web layouts
+
+
+What is Responsive Design :
+---------------------------
+Responsive Web Design is a approach that suggest the design and development should respond to the user's behavior and environment based on Different Screen Size , Platform and Orientation.
+
+
+Bootstrap Container Layout :
+----------------------------
+.Container are the most basic layout element in Bootstrap
+.Container are used to pad the content onside of them.
+.There are two container classes are available
+.The .container  class provides a responsive fixed Width container
+.The .container-fluid class provides a full width container,spanning the entire width of the viewport.
+
+.container-fluid:
+----------------
+width is always 100%
+
+.container:
+-----------
+dimension of fixed container
+
+Container Layout ?
+------------------
+.container			<576px
+.container-sm		>=576px
+.container-md		>=768px
+.container-lg		>=992px
+.container-xl		>=1200px
+.container-xxl		>=1400px
+.container-fluid	100%
+
+
+Grid Classes :
+--------------
+-Bootstrap grid system allows up to 12 columns across the page.
+.row
+.col
+-supports various screen resolutions like xs,sm,md,lg,xl,xxl.
+
+col-1 col-11
+col-4 col-8
+col-5 col-7
+col-8 col-4
+col-12 for full
+col-4 col-4 col-4
+col-3 col-3 col-3 col-3
+
+Grid Options :
+--------------
+xs :extra large
+sm :small
+md :medium
+lg :large
+xl :extra large
+xxl :extra extra large
+
+.cl-sm
+.col-md
+.col-lg
+.col-xl
+.col-xxl
+
+
+
+
