@@ -243,7 +243,9 @@ What is Responsive Design :
 ---------------------------
 Responsive Web Design is a approach that suggest the design and development should respond to the user's behavior and environment based on Different Screen Size , Platform and Orientation.
 
-
+======================================================================================================
+										Lec-2 Layout & Grids
+======================================================================================================
 Bootstrap Container Layout :
 ----------------------------
 .Container are the most basic layout element in Bootstrap
@@ -300,6 +302,24 @@ xxl :extra extra large
 .col-lg
 .col-xl
 .col-xxl
+
+======================================================================================================
+										Lec-3 Grid and Cols
+======================================================================================================
+Bootstrap : Structure ?
+
+.Bootstrap Layout :
+-------------------
+	.container
+	.row
+	.col
+
+Bootstrap Grid :
+----------------
+col-1 col-5 col-6
+col-4 col-4 col-4
+.etc
+
 
 
 
