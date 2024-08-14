@@ -320,7 +320,3 @@ col-1 col-5 col-6
 col-4 col-4 col-4
 .etc
 
-
-
-
-
