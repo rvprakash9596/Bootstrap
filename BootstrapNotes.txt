@@ -320,3 +320,89 @@ col-1 col-5 col-6
 col-4 col-4 col-4
 .etc
 
+====================================================================================================
+										Lec-6 Offset Class
+====================================================================================================
+
+Bootstrap : Offset Class :
+
+Container > row > col(1-12) : full width
+
+											Note :
+											------
+In a row there are 12 col.
+In a row we can't create another row directly. First we have to create col then create a row.
+In a col we can't create another col directly. First we have to create a row then create a col.
+
+===============================================Container
+-----------------------------------------------row
+1	2	3	4	5	6	7	8	9	10	11	12 |
+-----------------------------------------------row
+===============================================Container
+
+Bootstrap : Break Points ?
+---------------------------
+Bootstrap offset class for Different break points.
+They helps to make web page Responsive.
+	Extra Extra large : Offset-xxl-*
+	Extra Large		  : Offset-xl-*
+	Large			  : Offset-lg-*
+	Medium 			  : Offset-md-*
+	Small 			  : Offset-sm-*
+	Extra Small  	  :
+ 0-11
+
+====================================================================================================
+										Lec-7 Order Class in Bootstrap5
+====================================================================================================
+
+Bootstrap : Reordering ?
+------------------------
+order-first
+order-last
+
+Bootstrap : Order Classes ?
+----------------------------
+First and Last Order Class For Different Break Points
+
+	Extra Extra large : .order-xxl-first, .order-xxl-last
+	Extra Large		  : .order-sl-first, .order-xl-last
+	Large			  : .order-lg-first, .order-lg-last
+	Medium 			  : .order-md-first, .order-md-last
+	Small 			  : .order-sm-first, .order-sm-last
+	Extra Small  	  : 
+
+As order takes any integer value from 0 to 5
+.order-sm-*
+
+
+====================================================================================================
+										Lec-8 Nesting Classes in Bootstrap5
+====================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
