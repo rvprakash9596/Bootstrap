@@ -1,0 +1,24 @@
+.container{
+    border: 5px solid green;
+}
+.box-1{
+    min-height: 150px;
+    background-color: rgb(255, 25, 25);
+}
+.box-2{
+    min-height: 150px;
+    background-color: rgb(43, 163, 0);
+}
+.box-3{
+    min-height: 150px;
+    background-color: rgb(255, 144, 224);
+}
+.box-4{
+    min-height: 150px;
+    background-color: rgb(16, 0, 242);
+}
+div{
+    font-size: 150px;
+    line-height: 130px;
+    color: aliceblue;
+}
